@@ -1,0 +1,39 @@
+body {
+    align-items: center; 
+    text-align: center; 
+    background-image: url("../images/background.jpg");
+    background-repeat: repeat; 
+    background-color: #E3E8F1; 
+}
+
+h1 {
+    font-family: 'Comfortaa', cursive;
+    text-align: center; 
+    font-size: 42px; 
+    font-weight: bold; 
+
+}
+
+h4 {
+    font-family: 'Comfortaa', cursive;
+    text-align: center; 
+    font-size: 24px;  
+}
+
+.container {
+    align-content: center; 
+    padding: 20px;  
+}
+
+.col-sm {
+    
+    background-color: #fff; 
+    opacity: 0.9; 
+    padding: 10px; 
+  
+}
+
+header {
+    padding: 30px; 
+    
+}
